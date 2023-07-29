@@ -1,25 +1,28 @@
-# Matthew Alvarez
+# Hi! I'm Matthew Alvarez 👋
 
-**`Computer Science and Engineering Student`**
+**`Back-End Developer`**
 
-I am a student at KEAN University getting a degree in Computer Science and Engineering
+I am a student at KEAN University studying in Computer Science and Engineering
 with a focus on Mathematics. Most of my projects are associated with my classes with a few being
 long-term projects outside of academics. Currently, I am working on broadening my skillset and 
 exposure to other languages and business-standard practices to aid in my career.
 
 ---
 
-### Languages
+### Languages 📝
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+
 <br />
 
 #
 
 <details>
-	<summary><h3> Goals and Motivation </h3></summary>
+	<summary><h3> Goals and Motivation 💎</h3></summary>
    My long-term goal is to make a product that impacts the Software Development field and those associated with it. This stems from my upbringing where I lived in 
   an environment that favored medical and legal interests. At a young age, I was always drawn to computers and technology and found myself tinkering with system access
   restrictions or operating system files. This led to the decision that I must satisfy those who favored a more secure occupation whilst also doing what I'm passionate

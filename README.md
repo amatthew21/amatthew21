@@ -2,14 +2,13 @@
 
 **`Back-End Developer`**
 
-I am a student at KEAN University studying in Computer Science and Engineering
-with a focus on Mathematics. Most of my projects are associated with my classes with a few being
-long-term projects outside of academics. Currently, I am working on broadening my skillset and 
-exposure to other languages and business-standard practices to aid in my career.
+I am a student at KEAN University studying in Computer Science and Engineering with a focus on Mathematics. My projects involve Database Structures and a 
+few being Web/Game Development as passion projects. Currently, I am working on broadening my skillset and exposure to other languages and business-standard 
+practices to aid in my career.
 
 ---
 
-### Languages 📝
+### Familiar Languages 📝
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
@@ -24,8 +23,10 @@ exposure to other languages and business-standard practices to aid in my career.
 
 <details>
 	<summary><h3> Goals and Motivation 💎</h3></summary>
-   My long-term goal is to make a product that impacts the Software Development field and those associated with it. This stems from my upbringing where I lived in 
-  an environment that favored medical and legal interests. At a young age, I was always drawn to computers and technology and found myself tinkering with system access
-  restrictions or operating system files. This led to the decision that I must satisfy those who favored a more secure occupation whilst also doing what I'm passionate
-  about. A shorter-term goal would be making a network of peers that support one another through varying perspectives, skillsets, and practices. I've only recently realized
-  that a strong circle of family, friends, coworkers, and mentors is important in one's own growth, therefore, I try to make this a goal wherever I am in life.
+      My long-term goal is to create an impactful product that can benefit not only the Computer Science field, but also those outside it. I'm always looking for
+   ways to connect my interests with others, and that goes for programming as well. Since my introduction to computers, I've always been curious on how things
+   worked. Games, videos, spreadsheets, operating systems, all of these were things I looked forward to using in the future. My path towards being a programmer
+   was kickstarted when I learned how to code in HTML and CSS in my second year of middle school. What started out as a class requirement, turned into a hobby
+   almost immediately. Since then, I've been insistent on the saying "there's a computer program for this". Fast forward to today, I'm still convinced that I 
+   can streamline most daily activities using my skills as a programmer. From keeping notes to generating a work out routine, all of these things can be connected
+   to my one true passion, Computers.

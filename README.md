@@ -2,7 +2,7 @@
 
 **`Back-End Developer`**
 
-I am a student at KEAN University studying in Computer Science and Engineering with a focus on Mathematics. My projects involve Database Structures and a 
+I am a student at KEAN University studying in Computational Science and Engineering with a focus on Applied Mathematics. My projects involve Database Structures and a 
 few being Web/Game Development as passion projects. Currently, I am working on broadening my skillset and exposure to other languages and business-standard 
 practices to aid in my career.
 

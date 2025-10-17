@@ -1,32 +1,45 @@
 # Hi! I'm Matthew Alvarez 👋
 
-**`Aspiring Developer`**
+**`Applying Science Wherever the Data Goes`**
 
-I am a student at KEAN University studying Computational Science and Engineering. My projects involve Database Structures and a 
-few involve Web/Game Development as passion projects. Currently, I am working on broadening my skillset and exposure to other languages and business-standard 
-practices to aid in my career.
+I am working towards an M.S. in Computational Science and Engineering at KEAN University with a specialization in Mathematics. My projects involve big data 
+pipelines, often transforming raw information into a readable format. I excel at modelling simulations and optimizing data loss through mathematical and 
+numerical methods. 
 
 ---
 
 ### Familiar Languages 📝
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" /> 
+
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" />
+
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
 
-<br />
+<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 
-#
+<br>
 
-<details>
-	<summary><h3> Goals and Motivation 💎</h3></summary>
-      My long-term goal is to create an impactful product that can benefit not only the Computer Science field but also those outside it. I'm always looking for
-   ways to connect my interests with others, and that goes for programming as well. Since my introduction to computers, I've always been curious about how things
-   work. Games, videos, spreadsheets, operating systems, all of these were things I looked forward to using in the future. My path toward being a programmer
-   was kickstarted when I learned how to code in HTML and CSS in my second year of middle school. What started out as a class requirement, turned into a hobby
-   almost immediately. Since then, I've been insistent on the saying "There's a computer program for this". Fast forward to today, I'm still convinced that I 
-   can streamline most daily activities using my skills as a programmer. From keeping notes to generating a workout routine, all of these things can be connected
-   to my one true passion, Computers.
+### Familiar Frameworks and Tools
+
+<img align="left" alt="Kaggle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" />
+          
+<img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+
+<img align="left" alt="PyTorch" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
+
+<img align="left" alt="Tensorflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original.svg" />
+
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+
+<img align="left" alt="AWS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+
+<img align="left" alt="Google Suite" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
+
+<img align="left" alt="Adobe Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" />
+
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg"/>
+
